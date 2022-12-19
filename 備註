@@ -1,0 +1,4 @@
+
+假資料檔案：coupon資料 - coupon折價券(已修改).csv
+
+因為有更動cupon_status的值，讓篩選'可使用'能順利進行，需要將coupon的資料刪除後再匯入    coupon資料 - coupon折價券(已修改).csv。
